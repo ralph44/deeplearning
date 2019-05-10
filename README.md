@@ -1,28 +1,30 @@
 # Machine Learning Repository
 
-## This is a repository for my own machine learning programms.
+This is a repository for my own machine learning programms.
 
 
 
 ## Algorithms without any frameworks 
 
 
-1. Hello_World.py
 
-Tried to learn the basics and started with an machine learning linear regression algorithms. No additional framework was imported.
+| Tables   |      Description      |  Algorithm |
+|----------|:----------------------:|--------------:|
+| Hello_World.py |  Tried to learn the basics and started with an machine learning linear regression algorithms. No additional framework was imported. | linear regression |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+ 
+## Prediciton footballgames with xgboost
+
 
 
 | Tables   |      Description      |  Algorithm |
 |----------|:----------------------:|--------------:|
-| 1. Hello_World.py |  Tried to learn the basics and started with an machine learning linear regression algorithms. No additional framework was imported. | linear regression |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
- 
-## prediciton footballgames with xgboost
+| BundesligaVorhersage.ipynb |  Tried to predict the final outcome of a Bundesliga football match based on other final results | xgboost |
+| Bundesliga-HalbzeitVorhersage.ipynb |    Tried to predict the final outcome of a Bundesliga football match based on other halftime results.    |   xgboost |
 
+## Recognition of hand written numbers
 
-
-1. Bundesliga-HalbzeitVorhersage.ipynb
-2. BundesligaVorhersage.ipynb
-
-
+| Tables   |      Description      |  Algorithm |
+|----------|:----------------------:|--------------:|
+| Handschrift.ipynb | The solution to an exercise paper that i wrote. Implementation of a neural network with description of what the different cells do in german language. Includes the tensorflow framework an keras with the new 2.0 Version. | Neural network + Supervised Learning |
