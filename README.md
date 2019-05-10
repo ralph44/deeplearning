@@ -1,7 +1,28 @@
-# machine-learning
-This is a repository for machine learning programms.
+# Machine Learning Repository
+
+## This is a repository for my own machine learning programms.
 
 
-Der Algorithmus lernt eine Grade optimal durch die Punkte von X und Y zu legen mit Hilfe von einer Vorhersage im Vergleich zum Ergebnis.
-Der sogennante Fehler wird dann kleiner gemacht, durch die Ableitung und geht kleine Schritte mit Hilfe von der Learningrate zum optimalen
-Ergebnis. Das wird solange gemacht, bis der Error so klein ist, sodass keine größeren Änderungen stattfinden. 
+
+## Algorithms without any frameworks 
+
+
+1. Hello_World.py
+
+Tried to learn the basics and started with an machine learning linear regression algorithms. No additional framework was imported.
+
+
+| Tables   |      Description      |  Algorithm |
+|----------|:----------------------:|--------------:|
+| 1. Hello_World.py |  Tried to learn the basics and started with an machine learning linear regression algorithms. No additional framework was imported. | linear regression |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+ 
+## prediciton footballgames with xgboost
+
+
+
+1. Bundesliga-HalbzeitVorhersage.ipynb
+2. BundesligaVorhersage.ipynb
+
+
